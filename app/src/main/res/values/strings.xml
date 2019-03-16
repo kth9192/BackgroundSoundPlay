@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackGroundSound</string>
+    <string name="channel_id">test channel</string>
+</resources>
